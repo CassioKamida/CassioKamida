@@ -1,16 +1,13 @@
-### Hi there 👋
+## Boas vindas ao meu perfil 😀
 
-<!--
-**CassioKamida/CassioKamida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Cassio, I'm Starting my carrer as full stack developer. Right now, I'm studying full stack development coding at Trybe
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GITHUB STATUS -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CassioKamida&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioKamida&layout=compact&langs_count=10&theme=dark"/>
+
+  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+</div>
